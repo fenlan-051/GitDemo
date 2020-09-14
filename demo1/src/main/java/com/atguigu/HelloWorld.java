@@ -5,6 +5,9 @@ public class HelloWorld {
         System.out.println("world~");
         System.out.println("world~");
         System.out.println("world~");//测试冲突在hotfix分支
+        System.out.println("new content");
+        System.out.println("world~");//测试冲突在master
+        System.out.println("world~");
         System.out.println("world~");
         System.out.println("world~");
         System.out.println("world~");
